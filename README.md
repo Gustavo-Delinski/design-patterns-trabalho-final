@@ -10,7 +10,7 @@ Biblioteca Python de **logging e telemetria in-process**, leve e extensível, co
 
 ## Vídeo de apresentação
 
-Será adicionado na entrega final
+https://youtu.be/Mg1kGt1voI0
 
 ---
 
